@@ -64,7 +64,7 @@
 
 ## Episode 2: Python Strikes Back
 
-![Cover art for Episode 2: Python Strikes Back](./Episode 2/img/cover.png)
+![Cover art for Episode 2: Python Strikes Back](https://user-images.githubusercontent.com/16547060/34203051-0c967058-e57a-11e7-9952-e462bb55d8c4.png)
 
 ### Information
 
