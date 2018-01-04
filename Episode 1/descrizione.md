@@ -29,34 +29,37 @@ Primo capitolo della trilogia "Machine Learning for Dummies"
   - [Jupyter Notebook](https://github.com/mr-ubik/machine-learning-for-dummies/blob/master/Episode%201/episode_1.ipynb)
   - PDF - COMING SOON
 
-### Contents
+  ### Contents
 
-- Machine What?
-  - Don't believe the hype
-  - GG EZ
-  - The Data Jedi Path
-- Python: Learning to love Snakes
-  - General overwiew of the language
-  - Pythonic Syntax and Style
-  - Pythonic Objects
-    - Strings' Theory
-    - Python as a calculator
-    - Logical Python
-    - Lists
-    - Tuples
-    - Dictionaries
-  - Control Flow
-    - if elif else
-    - for
-    - while + (break)
-  - Functions
-  - Libraries
-- Use Python Luke!
-  - Royal Rumble
-  - The Python Ecosystem
-  - Data Plumbing
-  - Data Porn
-  - This is not even my final form
+  - Machine What?
+    - Don't believe the hype
+    - GG EZ
+    - The Data Jedi Path
+  - Python: Learning to love Snakes
+    - General overwiew of the language
+    - Pythonic Syntax and Style
+    - Pythonic Objects
+      - Strings' Theory
+      - Python as a calculator
+      - Logical Python
+      - Lists
+      - Tuples
+      - Dictionaries
+    - The Code Must Flow
+    - Functions
+    - Import Antigravity
+    - Python Mind Tricks
+  - Use Python Luke!
+    - Royal Rumble
+    - The Python Data/Scientific Ecosystem
+    - Kong Fu Pandas [COMING SOON]
+    - Data Plumbing
+    - Data Porn
+    - WE ARE LEGION
+        - From Dask till dawn [COMING SOON]
+        - Twinke twinkle little Spark [COMING SOON]
+    - 010010 TOTALLY NOT A CHAPTER ON ROBOTS - END OF TRANSMISSION [COMING SOON]
+    - De Naturalis Lingua [COMING SOON]
 
 ## Show Some :heart:
 
