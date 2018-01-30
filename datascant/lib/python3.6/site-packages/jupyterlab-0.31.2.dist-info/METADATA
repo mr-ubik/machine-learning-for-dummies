@@ -1,0 +1,47 @@
+Metadata-Version: 2.0
+Name: jupyterlab
+Version: 0.31.2
+Summary: The JupyterLab notebook server extension.
+Home-page: http://jupyter.org
+Author: Jupyter Development Team
+Author-email: jupyter@googlegroups.com
+License: BSD
+Description-Content-Type: UNKNOWN
+Keywords: ipython,jupyter,Web
+Platform: Linux
+Platform: Mac OS X
+Platform: Windows
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: System Administrators
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Requires-Dist: notebook (>=4.3.1)
+Requires-Dist: jupyterlab-launcher (<0.11.0,>=0.10.0)
+Requires-Dist: ipython-genutils
+Requires-Dist: futures; python_version < "3.0"
+Requires-Dist: subprocess32; python_version < "3.0"
+Provides-Extra: docs
+Requires-Dist: sphinx; extra == 'docs'
+Requires-Dist: recommonmark; extra == 'docs'
+Requires-Dist: sphinx-rtd-theme; extra == 'docs'
+Provides-Extra: test
+Requires-Dist: pytest; extra == 'test'
+Requires-Dist: requests; extra == 'test'
+Requires-Dist: pytest-check-links; extra == 'test'
+Requires-Dist: selenium; extra == 'test'
+Provides-Extra: test
+Requires-Dist: mock; python_version == "2.7" and extra == 'test'
+
+
+This is a beta release of JupyterLab.
+Development happens on https://github.com/jupyter/jupyterlab, with chat on
+https://gitter.im/jupyter/jupyterlab.
+
+

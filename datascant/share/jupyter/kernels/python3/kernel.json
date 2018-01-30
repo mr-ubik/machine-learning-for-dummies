@@ -1,0 +1,11 @@
+{
+ "argv": [
+  "python",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "language": "python",
+ "display_name": "Python 3"
+}
