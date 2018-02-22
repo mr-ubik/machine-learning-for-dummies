@@ -87,6 +87,7 @@
 
 ### Contents
 
+- Why we like whales: Introduction to docker by [@federicoB](https://github.com/federicoB)
 - Enter the Mad Scientist lab: IPython + Jupyter (lab)
 - Numpy and the Masters of the vector-verse: From lists to vector
 - Of Snakes and Pandas: Pandas Dataframe 101
@@ -99,7 +100,9 @@
 
 - [x] 25/11/2017 - Episode 1: A Pythonic Hope - @ImpactHub, Reggio Emilia, Italy
 - [x] 30/11/2017 - Episode 1: A Pythonic Hope - @LuogoComune, Bologna, Italy
-- [ ] 30/01/2018 - Episode 2: Python Strikes Back - @LuogoComune, Bologna, Italy
+- [x] 30/01/2018 - Episode 2: Python Strikes Back - @LuogoComune, Bologna, Italy
+- [x] 20/02/2018 - Episode 2: Python Strikes Back Remastered [Replica] - @LuogoComune, Bologna, Italy
+- [ ] xx/04/2018 - Episode 3: Return of the Tensor - @LuogoComune, Bologna, Italy
 
 ## Show Some :heart:
 
