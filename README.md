@@ -82,6 +82,7 @@
   - [Join the machine-learning-for-dummies Gitter Room](https://gitter.im/machine-learning-for-dummies/GDG-Bologna?utm_source=share-link&utm_medium=link&utm_campaign=share-link) for all communications and technical discussion regarding the Machine Learning for Dummies series!
   - Watch (and if you like it :star:) the [Machine Learning For Dummies Repo](https://github.com/mr-ubik/machine-learning-for-dummies)
 - **Materials:**
+  - [Docker Lightning talk pdf](https://drive.google.com/open?id=17IMktBr5DvjPDty0UBkNstBg59CBJIut)
   - Custom Docker Image - [COMING SOON]
   - Jupyter Notebook - [COMING SOON]
 
